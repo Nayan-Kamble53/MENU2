@@ -1,0 +1,19 @@
+.burger{
+    display: inline-grid;
+    grid-template-columns: auto auto;
+    background-color: black;
+    color: wheat;
+    width: 40vw;
+    height: 45vh;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    left: 80px;
+    top: 100px;
+}
+.b1{
+    border: 3px solid grey;
+    padding-top: 15px;
+
+}
+

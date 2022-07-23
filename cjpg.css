@@ -1,0 +1,13 @@
+.cjpg{
+    display: inline-grid;
+    background-image: url(coffee.jpg);
+    background-repeat: no-repeat;
+    float: right;
+    width: 20vw;
+    height: 43vh;
+    position: relative;
+    top: 50px;
+    right:190px;
+    box-sizing: border-box;
+    border: 5px solid white;
+}

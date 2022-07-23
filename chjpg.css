@@ -1,0 +1,13 @@
+.chjpg{
+    display: inline-grid;
+    background-image: url(chinese.jpg);
+    background-repeat: no-repeat;
+    float: right;
+    width: 30vw;
+    height: 43vh;
+    position: relative;
+    top: 220px;
+    right:105px;
+    box-sizing: border-box;
+    border: 5px solid white;
+}

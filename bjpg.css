@@ -1,0 +1,11 @@
+.bjpg{
+    display: inline-grid;
+    background-image: url(burger.jpg);
+    background-repeat: no-repeat;
+    float: right;
+    width: 30vw;
+    height: 45vh;
+    position: relative;
+    top: 120px;
+    right:80px;
+}
